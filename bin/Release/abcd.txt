@@ -1,0 +1,928 @@
+        Bunster was born! There are now    1 bunnies!
+           Bugs was born! There are now    2 bunnies!
+           Baby was born! There are now    3 bunnies!
+        Hershey was born! There are now    4 bunnies!
+        Darling was born! There are now    5 bunnies!
+       Tricycle was born! There are now    6 bunnies!
+Darth Mrsmallow was born! There are now    7 bunnies!
+          Frodo was born! There are now    8 bunnies!
+         KungFu was born! There are now    9 bunnies!
+         Cherub was born! There are now   10 bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 0|          Bunster|1|2|0||
+|| 0|             Bugs|1|2|0||
+|| 0|             Baby|0|0|0||
+|| 0|          Hershey|1|0|0||
+|| 0|          Darling|0|0|0||
+|| 0|         Tricycle|1|2|0||
+|| 0|  Darth Mrsmallow|1|1|1||
+|| 0|            Frodo|1|1|0||
+|| 0|           KungFu|1|0|0||
+|| 0|           Cherub|0|1|0||
+------------------------------
+Radioactive mutant vampire bunnies are spreading...
+           Baby was radiated and mutated into vampire!
+There are now 1 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 1|          Bunster|1|2|0||
+|| 1|             Bugs|1|2|0||
+|| 1|       Darth Baby|0|0|1||
+|| 1|          Hershey|1|0|0||
+|| 1|          Darling|0|0|0||
+|| 1|         Tricycle|1|2|0||
+|| 1|  Darth Mrsmallow|1|1|1||
+|| 1|            Frodo|1|1|0||
+|| 1|           KungFu|1|0|0||
+|| 1|           Cherub|0|1|0||
+------------------------------
+Radioactive mutant vampire bunnies are spreading...
+           Bugs was radiated and mutated into vampire!
+          Frodo was radiated and mutated into vampire!
+There are now 2 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 2|          Bunster|1|2|0||
+|| 2|       Darth Bugs|1|2|1||
+|| 2|       Darth Baby|0|0|1||
+|| 2|          Hershey|1|0|0||
+|| 2|          Darling|0|0|0||
+|| 2|         Tricycle|1|2|0||
+|| 2|  Darth Mrsmallow|1|1|1||
+|| 2|      Darth Frodo|1|1|1||
+|| 2|           KungFu|1|0|0||
+|| 2|           Cherub|0|1|0||
+------------------------------
+Radioactive mutant vampire bunnies are spreading...
+       Tricycle was radiated and mutated into vampire!
+        Darling was radiated and mutated into vampire!
+        Bunster was radiated and mutated into vampire!
+        Hershey was radiated and mutated into vampire!
+There are now 4 mutated bunnies!
+Population's increasing...
+           Noel was born! There are now 11 bunnies! 11
+          Linda was born! There are now 12 bunnies! 12
+|age| name            |S|C|V |
+------------------------------
+|| 3|    Darth Bunster|1|2|1||
+|| 3|       Darth Bugs|1|2|1||
+|| 3|       Darth Baby|0|0|1||
+|| 3|    Darth Hershey|1|0|1||
+|| 3|    Darth Darling|0|0|1||
+|| 3|   Darth Tricycle|1|2|1||
+|| 3|  Darth Mrsmallow|1|1|1||
+|| 3|      Darth Frodo|1|1|1||
+|| 3|           KungFu|1|0|0||
+|| 3|           Cherub|0|1|0||
+|| 0|             Noel|1|0|0||
+|| 0|            Linda|0|1|0||
+------------------------------
+Radioactive mutant vampire bunnies are spreading...
+           Noel was radiated and mutated into vampire!
+         KungFu was radiated and mutated into vampire!
+         Cherub was radiated and mutated into vampire!
+          Linda was radiated and mutated into vampire!
+There are now 8 mutated bunnies!
+Population's increasing...
+         Ripley was born! There are now 13 bunnies! 13
+|age| name            |S|C|V |
+------------------------------
+|| 4|    Darth Bunster|1|2|1||
+|| 4|       Darth Bugs|1|2|1||
+|| 4|       Darth Baby|0|0|1||
+|| 4|    Darth Hershey|1|0|1||
+|| 4|    Darth Darling|0|0|1||
+|| 4|   Darth Tricycle|1|2|1||
+|| 4|  Darth Mrsmallow|1|1|1||
+|| 4|      Darth Frodo|1|1|1||
+|| 4|     Darth KungFu|1|0|1||
+|| 4|     Darth Cherub|0|1|1||
+|| 1|       Darth Noel|1|0|1||
+|| 1|      Darth Linda|0|1|1||
+|| 0|           Ripley|1|1|0||
+------------------------------
+Radioactive mutant vampire bunnies are spreading...
+         Ripley was radiated and mutated into vampire!
+There are now 12 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 5|    Darth Bunster|1|2|1||
+|| 5|       Darth Bugs|1|2|1||
+|| 5|       Darth Baby|0|0|1||
+|| 5|    Darth Hershey|1|0|1||
+|| 5|    Darth Darling|0|0|1||
+|| 5|   Darth Tricycle|1|2|1||
+|| 5|  Darth Mrsmallow|1|1|1||
+|| 5|      Darth Frodo|1|1|1||
+|| 5|     Darth KungFu|1|0|1||
+|| 5|     Darth Cherub|0|1|1||
+|| 2|       Darth Noel|1|0|1||
+|| 2|      Darth Linda|0|1|1||
+|| 1|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 6|    Darth Bunster|1|2|1||
+|| 6|       Darth Bugs|1|2|1||
+|| 6|       Darth Baby|0|0|1||
+|| 6|    Darth Hershey|1|0|1||
+|| 6|    Darth Darling|0|0|1||
+|| 6|   Darth Tricycle|1|2|1||
+|| 6|  Darth Mrsmallow|1|1|1||
+|| 6|      Darth Frodo|1|1|1||
+|| 6|     Darth KungFu|1|0|1||
+|| 6|     Darth Cherub|0|1|1||
+|| 3|       Darth Noel|1|0|1||
+|| 3|      Darth Linda|0|1|1||
+|| 2|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 7|    Darth Bunster|1|2|1||
+|| 7|       Darth Bugs|1|2|1||
+|| 7|       Darth Baby|0|0|1||
+|| 7|    Darth Hershey|1|0|1||
+|| 7|    Darth Darling|0|0|1||
+|| 7|   Darth Tricycle|1|2|1||
+|| 7|  Darth Mrsmallow|1|1|1||
+|| 7|      Darth Frodo|1|1|1||
+|| 7|     Darth KungFu|1|0|1||
+|| 7|     Darth Cherub|0|1|1||
+|| 4|       Darth Noel|1|0|1||
+|| 4|      Darth Linda|0|1|1||
+|| 3|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 8|    Darth Bunster|1|2|1||
+|| 8|       Darth Bugs|1|2|1||
+|| 8|       Darth Baby|0|0|1||
+|| 8|    Darth Hershey|1|0|1||
+|| 8|    Darth Darling|0|0|1||
+|| 8|   Darth Tricycle|1|2|1||
+|| 8|  Darth Mrsmallow|1|1|1||
+|| 8|      Darth Frodo|1|1|1||
+|| 8|     Darth KungFu|1|0|1||
+|| 8|     Darth Cherub|0|1|1||
+|| 5|       Darth Noel|1|0|1||
+|| 5|      Darth Linda|0|1|1||
+|| 4|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+|| 9|    Darth Bunster|1|2|1||
+|| 9|       Darth Bugs|1|2|1||
+|| 9|       Darth Baby|0|0|1||
+|| 9|    Darth Hershey|1|0|1||
+|| 9|    Darth Darling|0|0|1||
+|| 9|   Darth Tricycle|1|2|1||
+|| 9|  Darth Mrsmallow|1|1|1||
+|| 9|      Darth Frodo|1|1|1||
+|| 9|     Darth KungFu|1|0|1||
+|| 9|     Darth Cherub|0|1|1||
+|| 6|       Darth Noel|1|0|1||
+|| 6|      Darth Linda|0|1|1||
+|| 5|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||10|    Darth Bunster|1|2|1||
+||10|       Darth Bugs|1|2|1||
+||10|       Darth Baby|0|0|1||
+||10|    Darth Hershey|1|0|1||
+||10|    Darth Darling|0|0|1||
+||10|   Darth Tricycle|1|2|1||
+||10|  Darth Mrsmallow|1|1|1||
+||10|      Darth Frodo|1|1|1||
+||10|     Darth KungFu|1|0|1||
+||10|     Darth Cherub|0|1|1||
+|| 7|       Darth Noel|1|0|1||
+|| 7|      Darth Linda|0|1|1||
+|| 6|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||11|    Darth Bunster|1|2|1||
+||11|       Darth Bugs|1|2|1||
+||11|       Darth Baby|0|0|1||
+||11|    Darth Hershey|1|0|1||
+||11|    Darth Darling|0|0|1||
+||11|   Darth Tricycle|1|2|1||
+||11|  Darth Mrsmallow|1|1|1||
+||11|      Darth Frodo|1|1|1||
+||11|     Darth KungFu|1|0|1||
+||11|     Darth Cherub|0|1|1||
+|| 8|       Darth Noel|1|0|1||
+|| 8|      Darth Linda|0|1|1||
+|| 7|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||12|    Darth Bunster|1|2|1||
+||12|       Darth Bugs|1|2|1||
+||12|       Darth Baby|0|0|1||
+||12|    Darth Hershey|1|0|1||
+||12|    Darth Darling|0|0|1||
+||12|   Darth Tricycle|1|2|1||
+||12|  Darth Mrsmallow|1|1|1||
+||12|      Darth Frodo|1|1|1||
+||12|     Darth KungFu|1|0|1||
+||12|     Darth Cherub|0|1|1||
+|| 9|       Darth Noel|1|0|1||
+|| 9|      Darth Linda|0|1|1||
+|| 8|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||13|    Darth Bunster|1|2|1||
+||13|       Darth Bugs|1|2|1||
+||13|       Darth Baby|0|0|1||
+||13|    Darth Hershey|1|0|1||
+||13|    Darth Darling|0|0|1||
+||13|   Darth Tricycle|1|2|1||
+||13|  Darth Mrsmallow|1|1|1||
+||13|      Darth Frodo|1|1|1||
+||13|     Darth KungFu|1|0|1||
+||13|     Darth Cherub|0|1|1||
+||10|       Darth Noel|1|0|1||
+||10|      Darth Linda|0|1|1||
+|| 9|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||14|    Darth Bunster|1|2|1||
+||14|       Darth Bugs|1|2|1||
+||14|       Darth Baby|0|0|1||
+||14|    Darth Hershey|1|0|1||
+||14|    Darth Darling|0|0|1||
+||14|   Darth Tricycle|1|2|1||
+||14|  Darth Mrsmallow|1|1|1||
+||14|      Darth Frodo|1|1|1||
+||14|     Darth KungFu|1|0|1||
+||14|     Darth Cherub|0|1|1||
+||11|       Darth Noel|1|0|1||
+||11|      Darth Linda|0|1|1||
+||10|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||15|    Darth Bunster|1|2|1||
+||15|       Darth Bugs|1|2|1||
+||15|       Darth Baby|0|0|1||
+||15|    Darth Hershey|1|0|1||
+||15|    Darth Darling|0|0|1||
+||15|   Darth Tricycle|1|2|1||
+||15|  Darth Mrsmallow|1|1|1||
+||15|      Darth Frodo|1|1|1||
+||15|     Darth KungFu|1|0|1||
+||15|     Darth Cherub|0|1|1||
+||12|       Darth Noel|1|0|1||
+||12|      Darth Linda|0|1|1||
+||11|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||16|    Darth Bunster|1|2|1||
+||16|       Darth Bugs|1|2|1||
+||16|       Darth Baby|0|0|1||
+||16|    Darth Hershey|1|0|1||
+||16|    Darth Darling|0|0|1||
+||16|   Darth Tricycle|1|2|1||
+||16|  Darth Mrsmallow|1|1|1||
+||16|      Darth Frodo|1|1|1||
+||16|     Darth KungFu|1|0|1||
+||16|     Darth Cherub|0|1|1||
+||13|       Darth Noel|1|0|1||
+||13|      Darth Linda|0|1|1||
+||12|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||17|    Darth Bunster|1|2|1||
+||17|       Darth Bugs|1|2|1||
+||17|       Darth Baby|0|0|1||
+||17|    Darth Hershey|1|0|1||
+||17|    Darth Darling|0|0|1||
+||17|   Darth Tricycle|1|2|1||
+||17|  Darth Mrsmallow|1|1|1||
+||17|      Darth Frodo|1|1|1||
+||17|     Darth KungFu|1|0|1||
+||17|     Darth Cherub|0|1|1||
+||14|       Darth Noel|1|0|1||
+||14|      Darth Linda|0|1|1||
+||13|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||18|    Darth Bunster|1|2|1||
+||18|       Darth Bugs|1|2|1||
+||18|       Darth Baby|0|0|1||
+||18|    Darth Hershey|1|0|1||
+||18|    Darth Darling|0|0|1||
+||18|   Darth Tricycle|1|2|1||
+||18|  Darth Mrsmallow|1|1|1||
+||18|      Darth Frodo|1|1|1||
+||18|     Darth KungFu|1|0|1||
+||18|     Darth Cherub|0|1|1||
+||15|       Darth Noel|1|0|1||
+||15|      Darth Linda|0|1|1||
+||14|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||19|    Darth Bunster|1|2|1||
+||19|       Darth Bugs|1|2|1||
+||19|       Darth Baby|0|0|1||
+||19|    Darth Hershey|1|0|1||
+||19|    Darth Darling|0|0|1||
+||19|   Darth Tricycle|1|2|1||
+||19|  Darth Mrsmallow|1|1|1||
+||19|      Darth Frodo|1|1|1||
+||19|     Darth KungFu|1|0|1||
+||19|     Darth Cherub|0|1|1||
+||16|       Darth Noel|1|0|1||
+||16|      Darth Linda|0|1|1||
+||15|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||20|    Darth Bunster|1|2|1||
+||20|       Darth Bugs|1|2|1||
+||20|       Darth Baby|0|0|1||
+||20|    Darth Hershey|1|0|1||
+||20|    Darth Darling|0|0|1||
+||20|   Darth Tricycle|1|2|1||
+||20|  Darth Mrsmallow|1|1|1||
+||20|      Darth Frodo|1|1|1||
+||20|     Darth KungFu|1|0|1||
+||20|     Darth Cherub|0|1|1||
+||17|       Darth Noel|1|0|1||
+||17|      Darth Linda|0|1|1||
+||16|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||21|    Darth Bunster|1|2|1||
+||21|       Darth Bugs|1|2|1||
+||21|       Darth Baby|0|0|1||
+||21|    Darth Hershey|1|0|1||
+||21|    Darth Darling|0|0|1||
+||21|   Darth Tricycle|1|2|1||
+||21|  Darth Mrsmallow|1|1|1||
+||21|      Darth Frodo|1|1|1||
+||21|     Darth KungFu|1|0|1||
+||21|     Darth Cherub|0|1|1||
+||18|       Darth Noel|1|0|1||
+||18|      Darth Linda|0|1|1||
+||17|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||22|    Darth Bunster|1|2|1||
+||22|       Darth Bugs|1|2|1||
+||22|       Darth Baby|0|0|1||
+||22|    Darth Hershey|1|0|1||
+||22|    Darth Darling|0|0|1||
+||22|   Darth Tricycle|1|2|1||
+||22|  Darth Mrsmallow|1|1|1||
+||22|      Darth Frodo|1|1|1||
+||22|     Darth KungFu|1|0|1||
+||22|     Darth Cherub|0|1|1||
+||19|       Darth Noel|1|0|1||
+||19|      Darth Linda|0|1|1||
+||18|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||23|    Darth Bunster|1|2|1||
+||23|       Darth Bugs|1|2|1||
+||23|       Darth Baby|0|0|1||
+||23|    Darth Hershey|1|0|1||
+||23|    Darth Darling|0|0|1||
+||23|   Darth Tricycle|1|2|1||
+||23|  Darth Mrsmallow|1|1|1||
+||23|      Darth Frodo|1|1|1||
+||23|     Darth KungFu|1|0|1||
+||23|     Darth Cherub|0|1|1||
+||20|       Darth Noel|1|0|1||
+||20|      Darth Linda|0|1|1||
+||19|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||24|    Darth Bunster|1|2|1||
+||24|       Darth Bugs|1|2|1||
+||24|       Darth Baby|0|0|1||
+||24|    Darth Hershey|1|0|1||
+||24|    Darth Darling|0|0|1||
+||24|   Darth Tricycle|1|2|1||
+||24|  Darth Mrsmallow|1|1|1||
+||24|      Darth Frodo|1|1|1||
+||24|     Darth KungFu|1|0|1||
+||24|     Darth Cherub|0|1|1||
+||21|       Darth Noel|1|0|1||
+||21|      Darth Linda|0|1|1||
+||20|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||25|    Darth Bunster|1|2|1||
+||25|       Darth Bugs|1|2|1||
+||25|       Darth Baby|0|0|1||
+||25|    Darth Hershey|1|0|1||
+||25|    Darth Darling|0|0|1||
+||25|   Darth Tricycle|1|2|1||
+||25|  Darth Mrsmallow|1|1|1||
+||25|      Darth Frodo|1|1|1||
+||25|     Darth KungFu|1|0|1||
+||25|     Darth Cherub|0|1|1||
+||22|       Darth Noel|1|0|1||
+||22|      Darth Linda|0|1|1||
+||21|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||26|    Darth Bunster|1|2|1||
+||26|       Darth Bugs|1|2|1||
+||26|       Darth Baby|0|0|1||
+||26|    Darth Hershey|1|0|1||
+||26|    Darth Darling|0|0|1||
+||26|   Darth Tricycle|1|2|1||
+||26|  Darth Mrsmallow|1|1|1||
+||26|      Darth Frodo|1|1|1||
+||26|     Darth KungFu|1|0|1||
+||26|     Darth Cherub|0|1|1||
+||23|       Darth Noel|1|0|1||
+||23|      Darth Linda|0|1|1||
+||22|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||27|    Darth Bunster|1|2|1||
+||27|       Darth Bugs|1|2|1||
+||27|       Darth Baby|0|0|1||
+||27|    Darth Hershey|1|0|1||
+||27|    Darth Darling|0|0|1||
+||27|   Darth Tricycle|1|2|1||
+||27|  Darth Mrsmallow|1|1|1||
+||27|      Darth Frodo|1|1|1||
+||27|     Darth KungFu|1|0|1||
+||27|     Darth Cherub|0|1|1||
+||24|       Darth Noel|1|0|1||
+||24|      Darth Linda|0|1|1||
+||23|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||28|    Darth Bunster|1|2|1||
+||28|       Darth Bugs|1|2|1||
+||28|       Darth Baby|0|0|1||
+||28|    Darth Hershey|1|0|1||
+||28|    Darth Darling|0|0|1||
+||28|   Darth Tricycle|1|2|1||
+||28|  Darth Mrsmallow|1|1|1||
+||28|      Darth Frodo|1|1|1||
+||28|     Darth KungFu|1|0|1||
+||28|     Darth Cherub|0|1|1||
+||25|       Darth Noel|1|0|1||
+||25|      Darth Linda|0|1|1||
+||24|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||29|    Darth Bunster|1|2|1||
+||29|       Darth Bugs|1|2|1||
+||29|       Darth Baby|0|0|1||
+||29|    Darth Hershey|1|0|1||
+||29|    Darth Darling|0|0|1||
+||29|   Darth Tricycle|1|2|1||
+||29|  Darth Mrsmallow|1|1|1||
+||29|      Darth Frodo|1|1|1||
+||29|     Darth KungFu|1|0|1||
+||29|     Darth Cherub|0|1|1||
+||26|       Darth Noel|1|0|1||
+||26|      Darth Linda|0|1|1||
+||25|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||30|    Darth Bunster|1|2|1||
+||30|       Darth Bugs|1|2|1||
+||30|       Darth Baby|0|0|1||
+||30|    Darth Hershey|1|0|1||
+||30|    Darth Darling|0|0|1||
+||30|   Darth Tricycle|1|2|1||
+||30|  Darth Mrsmallow|1|1|1||
+||30|      Darth Frodo|1|1|1||
+||30|     Darth KungFu|1|0|1||
+||30|     Darth Cherub|0|1|1||
+||27|       Darth Noel|1|0|1||
+||27|      Darth Linda|0|1|1||
+||26|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||31|    Darth Bunster|1|2|1||
+||31|       Darth Bugs|1|2|1||
+||31|       Darth Baby|0|0|1||
+||31|    Darth Hershey|1|0|1||
+||31|    Darth Darling|0|0|1||
+||31|   Darth Tricycle|1|2|1||
+||31|  Darth Mrsmallow|1|1|1||
+||31|      Darth Frodo|1|1|1||
+||31|     Darth KungFu|1|0|1||
+||31|     Darth Cherub|0|1|1||
+||28|       Darth Noel|1|0|1||
+||28|      Darth Linda|0|1|1||
+||27|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||32|    Darth Bunster|1|2|1||
+||32|       Darth Bugs|1|2|1||
+||32|       Darth Baby|0|0|1||
+||32|    Darth Hershey|1|0|1||
+||32|    Darth Darling|0|0|1||
+||32|   Darth Tricycle|1|2|1||
+||32|  Darth Mrsmallow|1|1|1||
+||32|      Darth Frodo|1|1|1||
+||32|     Darth KungFu|1|0|1||
+||32|     Darth Cherub|0|1|1||
+||29|       Darth Noel|1|0|1||
+||29|      Darth Linda|0|1|1||
+||28|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||33|    Darth Bunster|1|2|1||
+||33|       Darth Bugs|1|2|1||
+||33|       Darth Baby|0|0|1||
+||33|    Darth Hershey|1|0|1||
+||33|    Darth Darling|0|0|1||
+||33|   Darth Tricycle|1|2|1||
+||33|  Darth Mrsmallow|1|1|1||
+||33|      Darth Frodo|1|1|1||
+||33|     Darth KungFu|1|0|1||
+||33|     Darth Cherub|0|1|1||
+||30|       Darth Noel|1|0|1||
+||30|      Darth Linda|0|1|1||
+||29|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||34|    Darth Bunster|1|2|1||
+||34|       Darth Bugs|1|2|1||
+||34|       Darth Baby|0|0|1||
+||34|    Darth Hershey|1|0|1||
+||34|    Darth Darling|0|0|1||
+||34|   Darth Tricycle|1|2|1||
+||34|  Darth Mrsmallow|1|1|1||
+||34|      Darth Frodo|1|1|1||
+||34|     Darth KungFu|1|0|1||
+||34|     Darth Cherub|0|1|1||
+||31|       Darth Noel|1|0|1||
+||31|      Darth Linda|0|1|1||
+||30|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||35|    Darth Bunster|1|2|1||
+||35|       Darth Bugs|1|2|1||
+||35|       Darth Baby|0|0|1||
+||35|    Darth Hershey|1|0|1||
+||35|    Darth Darling|0|0|1||
+||35|   Darth Tricycle|1|2|1||
+||35|  Darth Mrsmallow|1|1|1||
+||35|      Darth Frodo|1|1|1||
+||35|     Darth KungFu|1|0|1||
+||35|     Darth Cherub|0|1|1||
+||32|       Darth Noel|1|0|1||
+||32|      Darth Linda|0|1|1||
+||31|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||36|    Darth Bunster|1|2|1||
+||36|       Darth Bugs|1|2|1||
+||36|       Darth Baby|0|0|1||
+||36|    Darth Hershey|1|0|1||
+||36|    Darth Darling|0|0|1||
+||36|   Darth Tricycle|1|2|1||
+||36|  Darth Mrsmallow|1|1|1||
+||36|      Darth Frodo|1|1|1||
+||36|     Darth KungFu|1|0|1||
+||36|     Darth Cherub|0|1|1||
+||33|       Darth Noel|1|0|1||
+||33|      Darth Linda|0|1|1||
+||32|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||37|    Darth Bunster|1|2|1||
+||37|       Darth Bugs|1|2|1||
+||37|       Darth Baby|0|0|1||
+||37|    Darth Hershey|1|0|1||
+||37|    Darth Darling|0|0|1||
+||37|   Darth Tricycle|1|2|1||
+||37|  Darth Mrsmallow|1|1|1||
+||37|      Darth Frodo|1|1|1||
+||37|     Darth KungFu|1|0|1||
+||37|     Darth Cherub|0|1|1||
+||34|       Darth Noel|1|0|1||
+||34|      Darth Linda|0|1|1||
+||33|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||38|    Darth Bunster|1|2|1||
+||38|       Darth Bugs|1|2|1||
+||38|       Darth Baby|0|0|1||
+||38|    Darth Hershey|1|0|1||
+||38|    Darth Darling|0|0|1||
+||38|   Darth Tricycle|1|2|1||
+||38|  Darth Mrsmallow|1|1|1||
+||38|      Darth Frodo|1|1|1||
+||38|     Darth KungFu|1|0|1||
+||38|     Darth Cherub|0|1|1||
+||35|       Darth Noel|1|0|1||
+||35|      Darth Linda|0|1|1||
+||34|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||39|    Darth Bunster|1|2|1||
+||39|       Darth Bugs|1|2|1||
+||39|       Darth Baby|0|0|1||
+||39|    Darth Hershey|1|0|1||
+||39|    Darth Darling|0|0|1||
+||39|   Darth Tricycle|1|2|1||
+||39|  Darth Mrsmallow|1|1|1||
+||39|      Darth Frodo|1|1|1||
+||39|     Darth KungFu|1|0|1||
+||39|     Darth Cherub|0|1|1||
+||36|       Darth Noel|1|0|1||
+||36|      Darth Linda|0|1|1||
+||35|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||40|    Darth Bunster|1|2|1||
+||40|       Darth Bugs|1|2|1||
+||40|       Darth Baby|0|0|1||
+||40|    Darth Hershey|1|0|1||
+||40|    Darth Darling|0|0|1||
+||40|   Darth Tricycle|1|2|1||
+||40|  Darth Mrsmallow|1|1|1||
+||40|      Darth Frodo|1|1|1||
+||40|     Darth KungFu|1|0|1||
+||40|     Darth Cherub|0|1|1||
+||37|       Darth Noel|1|0|1||
+||37|      Darth Linda|0|1|1||
+||36|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||41|    Darth Bunster|1|2|1||
+||41|       Darth Bugs|1|2|1||
+||41|       Darth Baby|0|0|1||
+||41|    Darth Hershey|1|0|1||
+||41|    Darth Darling|0|0|1||
+||41|   Darth Tricycle|1|2|1||
+||41|  Darth Mrsmallow|1|1|1||
+||41|      Darth Frodo|1|1|1||
+||41|     Darth KungFu|1|0|1||
+||41|     Darth Cherub|0|1|1||
+||38|       Darth Noel|1|0|1||
+||38|      Darth Linda|0|1|1||
+||37|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||42|    Darth Bunster|1|2|1||
+||42|       Darth Bugs|1|2|1||
+||42|       Darth Baby|0|0|1||
+||42|    Darth Hershey|1|0|1||
+||42|    Darth Darling|0|0|1||
+||42|   Darth Tricycle|1|2|1||
+||42|  Darth Mrsmallow|1|1|1||
+||42|      Darth Frodo|1|1|1||
+||42|     Darth KungFu|1|0|1||
+||42|     Darth Cherub|0|1|1||
+||39|       Darth Noel|1|0|1||
+||39|      Darth Linda|0|1|1||
+||38|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||43|    Darth Bunster|1|2|1||
+||43|       Darth Bugs|1|2|1||
+||43|       Darth Baby|0|0|1||
+||43|    Darth Hershey|1|0|1||
+||43|    Darth Darling|0|0|1||
+||43|   Darth Tricycle|1|2|1||
+||43|  Darth Mrsmallow|1|1|1||
+||43|      Darth Frodo|1|1|1||
+||43|     Darth KungFu|1|0|1||
+||43|     Darth Cherub|0|1|1||
+||40|       Darth Noel|1|0|1||
+||40|      Darth Linda|0|1|1||
+||39|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||44|    Darth Bunster|1|2|1||
+||44|       Darth Bugs|1|2|1||
+||44|       Darth Baby|0|0|1||
+||44|    Darth Hershey|1|0|1||
+||44|    Darth Darling|0|0|1||
+||44|   Darth Tricycle|1|2|1||
+||44|  Darth Mrsmallow|1|1|1||
+||44|      Darth Frodo|1|1|1||
+||44|     Darth KungFu|1|0|1||
+||44|     Darth Cherub|0|1|1||
+||41|       Darth Noel|1|0|1||
+||41|      Darth Linda|0|1|1||
+||40|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||45|    Darth Bunster|1|2|1||
+||45|       Darth Bugs|1|2|1||
+||45|       Darth Baby|0|0|1||
+||45|    Darth Hershey|1|0|1||
+||45|    Darth Darling|0|0|1||
+||45|   Darth Tricycle|1|2|1||
+||45|  Darth Mrsmallow|1|1|1||
+||45|      Darth Frodo|1|1|1||
+||45|     Darth KungFu|1|0|1||
+||45|     Darth Cherub|0|1|1||
+||42|       Darth Noel|1|0|1||
+||42|      Darth Linda|0|1|1||
+||41|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||46|    Darth Bunster|1|2|1||
+||46|       Darth Bugs|1|2|1||
+||46|       Darth Baby|0|0|1||
+||46|    Darth Hershey|1|0|1||
+||46|    Darth Darling|0|0|1||
+||46|   Darth Tricycle|1|2|1||
+||46|  Darth Mrsmallow|1|1|1||
+||46|      Darth Frodo|1|1|1||
+||46|     Darth KungFu|1|0|1||
+||46|     Darth Cherub|0|1|1||
+||43|       Darth Noel|1|0|1||
+||43|      Darth Linda|0|1|1||
+||42|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||47|    Darth Bunster|1|2|1||
+||47|       Darth Bugs|1|2|1||
+||47|       Darth Baby|0|0|1||
+||47|    Darth Hershey|1|0|1||
+||47|    Darth Darling|0|0|1||
+||47|   Darth Tricycle|1|2|1||
+||47|  Darth Mrsmallow|1|1|1||
+||47|      Darth Frodo|1|1|1||
+||47|     Darth KungFu|1|0|1||
+||47|     Darth Cherub|0|1|1||
+||44|       Darth Noel|1|0|1||
+||44|      Darth Linda|0|1|1||
+||43|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||48|    Darth Bunster|1|2|1||
+||48|       Darth Bugs|1|2|1||
+||48|       Darth Baby|0|0|1||
+||48|    Darth Hershey|1|0|1||
+||48|    Darth Darling|0|0|1||
+||48|   Darth Tricycle|1|2|1||
+||48|  Darth Mrsmallow|1|1|1||
+||48|      Darth Frodo|1|1|1||
+||48|     Darth KungFu|1|0|1||
+||48|     Darth Cherub|0|1|1||
+||45|       Darth Noel|1|0|1||
+||45|      Darth Linda|0|1|1||
+||44|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||49|    Darth Bunster|1|2|1||
+||49|       Darth Bugs|1|2|1||
+||49|       Darth Baby|0|0|1||
+||49|    Darth Hershey|1|0|1||
+||49|    Darth Darling|0|0|1||
+||49|   Darth Tricycle|1|2|1||
+||49|  Darth Mrsmallow|1|1|1||
+||49|      Darth Frodo|1|1|1||
+||49|     Darth KungFu|1|0|1||
+||49|     Darth Cherub|0|1|1||
+||46|       Darth Noel|1|0|1||
+||46|      Darth Linda|0|1|1||
+||45|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||50|    Darth Bunster|1|2|1||
+||50|       Darth Bugs|1|2|1||
+||50|       Darth Baby|0|0|1||
+||50|    Darth Hershey|1|0|1||
+||50|    Darth Darling|0|0|1||
+||50|   Darth Tricycle|1|2|1||
+||50|  Darth Mrsmallow|1|1|1||
+||50|      Darth Frodo|1|1|1||
+||50|     Darth KungFu|1|0|1||
+||50|     Darth Cherub|0|1|1||
+||47|       Darth Noel|1|0|1||
+||47|      Darth Linda|0|1|1||
+||46|     Darth Ripley|1|1|1||
+------------------------------
+There are now 13 mutated bunnies!
+   Darth Cherub has died!
+   Darth KungFu has died!
+    Darth Frodo has died!
+Darth Mrsmallow has died!
+ Darth Tricycle has died!
+  Darth Darling has died!
+  Darth Hershey has died!
+     Darth Baby has died!
+     Darth Bugs has died!
+  Darth Bunster has died!
+|age| name            |S|C|V |
+------------------------------
+||48|       Darth Noel|1|0|1||
+||48|      Darth Linda|0|1|1||
+||47|     Darth Ripley|1|1|1||
+------------------------------
+There are now 3 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||49|       Darth Noel|1|0|1||
+||49|      Darth Linda|0|1|1||
+||48|     Darth Ripley|1|1|1||
+------------------------------
+There are now 3 mutated bunnies!
+|age| name            |S|C|V |
+------------------------------
+||50|       Darth Noel|1|0|1||
+||50|      Darth Linda|0|1|1||
+||49|     Darth Ripley|1|1|1||
+------------------------------
+There are now 3 mutated bunnies!
+    Darth Linda has died!
+     Darth Noel has died!
+|age| name            |S|C|V |
+------------------------------
+||50|     Darth Ripley|1|1|1||
+------------------------------
+There are now 1 mutated bunnies!
+   Darth Ripley has died!

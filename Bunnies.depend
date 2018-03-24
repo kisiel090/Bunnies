@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1500116266 source:c:\users\marcin\desktop\programowanie\c++\bunnies\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<vector>
+	<iomanip>
+	<fstream>
+	"Bunny.h"
+
+1500116277 c:\users\marcin\desktop\programowanie\c++\bunnies\include\bunny.h
+
+1500116266 source:c:\users\marcin\desktop\programowanie\c++\bunnies\src\bunny.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	"Bunny.h"
+
